@@ -1,0 +1,51 @@
+{
+    "skills": [
+        {
+            "src": "https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png",
+            "title": "HTML",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium voluptas a atque reiciendis ducimus facilis!"
+        },
+        {
+            "src": "https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png",
+            "title": "CSS",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium voluptas a atque reiciendis ducimus facilis!"
+        },
+        {
+            "src": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png",
+            "title": "JAVASCRIPT",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium voluptas a atque reiciendis ducimus facilis!"
+        },
+        {
+            "src": "https://pluspng.com/img-png/react-logo-png-react-logo-png-img-900-900-free-transparent-react-png-900x900.jpg",
+            "title": "ReactJs",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium voluptas a atque reiciendis ducimus facilis!"
+        }
+
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./src/assets/placeholder-image.png",
+            "title": "Lorem",
+            "description": "Lorem ipsum dolor sit, consecseladjvn asjvdlkxn  saldvjkm alkjgsdv gearjsk argsj.dvm,",
+            "Link": "View Code In Github",
+            "Live": "View Live In Verciel"
+        },
+        {
+            "id": "2",
+            "src": "./src/assets/placeholder-image-2.png",
+            "title": "Lorem",
+            "description": "Lorem ipsum dolor sit, consecseladjvn asjvdlkxn  saldvjkm alkjgsdv gearjsk argsj.dvm,",
+            "Link": "View Code In Github",
+            "Live": "View Live In Verciel"
+        },
+        {
+            "id": "4",
+            "src": "./src/assets/placeholder-image-1.png",
+            "title": "Lorem",
+            "description": "Lorem ipsum dolor sit, consecseladjvn asjvdlkxn  saldvjkm alkjgsdv gearjsk argsj.dvm,",
+            "Link": "View Code In Github",
+            "Live": "View Live In Verciel"
+        }
+    ]
+}
