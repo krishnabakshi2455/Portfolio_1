@@ -135,6 +135,11 @@ body {
     background-color: var(--black-color);
     transition: 0.3s;
 }
+.items-center2{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
 
 .home__shadow {
     width: 25%;
@@ -1102,7 +1107,7 @@ body {
     }
 
 
-    
+
     .contact__data {
         position: relative;
         width: 300px;

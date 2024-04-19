@@ -47,7 +47,7 @@ function Header() {
 
                         </li>
                         {/* ----------------------- */}
-                        <li className='flex gap-9 items-center'>
+                        <li className=' gap-9 items-center2'>
 
 
                             <li className='header-li-theme  cursor-pointer'>
