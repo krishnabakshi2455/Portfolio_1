@@ -62,7 +62,7 @@ function Header() {
                         </li>
                         {/* ----------------------------------------------- */}
 
-                        <ul className='dropdown-menu flex'>
+                        <ul className='dropdown-menu'>
 
                             <li className='menu-li-1 bg-black text-dark-theme' ref={menuref}>
                                 <li className='flex items-center '>

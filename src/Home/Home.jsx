@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <section className='section-home '>
         <div className="section-div-1">
-          <p className=' home-heading font-serif font-bold text-3xl ml-44 mt-5'>
+          <p className=' home-heading font-serif font-bold text-3xl mt-5'>
             Krishna Bakshi
           </p>
 
