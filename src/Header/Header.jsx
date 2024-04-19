@@ -28,7 +28,7 @@ function Header() {
 
                 {/* ----------------------------------------------------------------------------- */}
 
-                <div className='header-div-2 flex'>
+                <div className='header-div-2 '>
                     <ul className='header-ul-1 flex gap-24 font-bold font-serif text-lg items-center'>
 
                         <li className='header-li-2 flex gap-24 font-bold font-serif text-lg items-center'>
