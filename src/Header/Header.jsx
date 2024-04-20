@@ -20,8 +20,8 @@ function Header() {
 
     return (
         <>
-            <section className='header-section flex justify-around '>
-                <div className='header-div-1  gap-4 items-center m-2'>
+            <section className='header-section '>
+                <div className='header-div-1 gap-4 items-center m-2'>
                     <p className=' text-dark-theme font-bold bg-black text-white w-8 text-center rounded-2xl p-1 font-serif'>K</p>
                     <p className='text-dark-theme font-bold font-serif'>Krishna </p>
                 </div>

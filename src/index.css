@@ -57,6 +57,8 @@ body {
 }
 
 .header-section {
+    display: flex;
+    justify-content: space-around;
     width: 100%;
     box-shadow: 4px 4px 4px rgb(163, 159, 159);
     height: 9vh;
