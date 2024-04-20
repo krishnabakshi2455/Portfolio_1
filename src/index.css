@@ -77,18 +77,26 @@ body {
       gap: 10px;
   }
 
-/* .header-div-1{
-    width: 20%;
+.header-ul-1{
+    display: flex;
+    gap: 100px;
+    font-family: var(--font-family);
+    font-size: var(--h1-font-size);
+    align-items: center;
 }
-.header-div-2{
-    width: 47%;
-} */
 .header-li-1:hover {
 
     color: var(--first-color);
     transition: 0.3s;
 }
-
+.header-li-2{
+    display: flex;
+    gap: 6rem;
+    font-weight: var(--font-bold);
+    font-family: var(--font-family);
+    font-size: var(--h2-font-size);
+    align-items: center;
+}
 .header-li-btn {
     width: 140px;
     text-align: center;

@@ -29,7 +29,7 @@ function Header() {
                 {/* ----------------------------------------------------------------------------- */}
 
                 <div className='header-div-2 '>
-                    <ul className='header-ul-1 flex gap-24 font-bold font-serif text-lg items-center'>
+                    <ul className='header-ul-1 '>
 
                         <li className='header-li-2 flex gap-24 font-bold font-serif text-lg items-center'>
 
